@@ -11,7 +11,7 @@ I build high-performance web applications and integrate production-ready AI mode
 
 *   **Languages:** Python, JavaScript, SQL
 *   **Frameworks & APIs:** Node.js, Express.js, REST APIs, MongoDB,React.js
-*   **Machine Learning & AI:** Pandas, NumPy, Scikit-learn, Matplotlib, Hugging Face, NLP (TF-IDF, VADER), GenAI
+*   **Machine Learning & AI:** Pandas, NumPy, Scikit-learn, Matplotlib, Hugging Face, NLP, GenAI
 *   **Tools & Platforms:** VS Code, Git/GitHub, Jupyter Notebook, Power BI, Postman
 *   **Cloud & Deployment:** AWS, Render, Vercel, Docker
 
