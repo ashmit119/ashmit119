@@ -16,9 +16,3 @@ I build high-performance web applications and integrate production-ready AI mode
 *   **Cloud & Deployment:** AWS, Render, Vercel, Docker
 
 ---
-
-### 📊 GitHub Activity
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ashmit119&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmit119&layout=compact&theme=transparent&hide_border=true"/>
-</p>
